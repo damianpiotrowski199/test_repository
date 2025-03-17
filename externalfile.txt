@@ -1,4 +1,1 @@
-master line1asdasad
-master line2asd
-masterlinie3asd
-changemasteradd
+master line1
